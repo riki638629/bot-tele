@@ -1,0 +1,12 @@
+{
+  "name": "Vortunix-Jaga-Groub",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk menjaga grup dari spam link dan kata terlarang",
+  "main": "Case.js",
+  "scripts": {
+    "start": "node Case.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}
